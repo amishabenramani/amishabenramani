@@ -2,6 +2,16 @@
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer building modern web applications with cutting-edge technologies, with a focus on AI and ML.
 
+## 🔭 Current Projects
+
+### Desktop & Dev Tools
+
+- 🦀 **[Keld](https://github.com/gyldlab/keld)** — Electron alternative with a Rust core, Bun-powered JS/TS process, and system webviews instead of bundled Chromium. Pre-alpha, built at [GyldLab](https://github.com/gyldlab).
+
+### Web & Commerce
+
+- 💄 **[Crazy Collection](https://www.crazycollection.co.in/)** — online beauty and personal care store offering skincare, makeup, hair, and body care from recognized brands, with 100% authentic products and nationwide delivery.
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -39,16 +49,6 @@ Rust, Machine Learning
 - **M.Sc. in E-Government** — University of Koblenz, Germany (current)
 - **BCA (Bachelor of Computer Applications)** — India
 
-
-## 🔭 Current Projects
-
-### Desktop & Dev Tools
-
-- 🦀 **[Keld](https://github.com/gyldlab/keld)** — Electron alternative with a Rust core, Bun-powered JS/TS process, and system webviews instead of bundled Chromium. Pre-alpha, built at [GyldLab](https://github.com/gyldlab).
-
-### Web & Commerce
-
-- 💄 **[Crazy Collection](https://www.crazycollection.co.in/)** — online beauty and personal care store offering skincare, makeup, hair, and body care from recognized brands, with 100% authentic products and nationwide delivery.
 
 ## 💭 Philosophy
 

@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer building mod
 
 ### Desktop & Dev Tools
 
-- 🦀 **[Keld](https://github.com/gyldlab/keld)** — Electron alternative with a Rust core, Bun-powered JS/TS process, and system webviews instead of bundled Chromium. Pre-alpha, built at [GyldLab](https://github.com/gyldlab).
+- 🦀 **[Keld](https://github.com/gyldlab/keld)** — Electron alternative with a Rust core, Bun-powered JS/TS process, and system webviews instead of bundled Chromium. Pre-alpha, built at [GYLDLAB](https://github.com/gyldlab).
 
 ### Web & Commerce
 

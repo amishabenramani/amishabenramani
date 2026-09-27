@@ -12,6 +12,15 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer building mod
 
 - 💄 **[Crazy Collection](https://www.crazycollection.co.in/)** — online beauty and personal care store offering skincare, makeup, hair, and body care from recognized brands, with 100% authentic products and nationwide delivery.
 
+## 🌍 Open Source Contributions
+
+I enjoy contributing to projects that improve developer tooling, reliability, and platform quality.
+
+### Recent work
+
+- [pnpm/pnpm#15746](https://github.com/pnpm/pnpm/pull/15746) — contribution to the pnpm ecosystem.
+
+
 ## 🛠️ Tech Stack
 
 **Frontend:**

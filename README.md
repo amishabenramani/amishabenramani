@@ -16,9 +16,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer building mod
 
 I enjoy contributing to projects that improve developer tooling, reliability, and platform quality.
 
-### Recent work
+### Merged upstream contributions
 
-- [pnpm/pnpm#15746](https://github.com/pnpm/pnpm/pull/15746) — contribution to the pnpm ecosystem.
+- [pnpm/pnpm#16321](https://github.com/pnpm/pnpm/pull/16321) — **fix(config-deps): reuse store entries offline**
+- [pnpm/get.pnpm.io#63](https://github.com/pnpm/get.pnpm.io/pull/63) — **fix(get-pnpm): support private registry authentication**
+- [pnpm/pnpm#15746](https://github.com/pnpm/pnpm/pull/15746) — **fix(setup): repair PNPM_HOME registry type**
+- [pnpm/components#32](https://github.com/pnpm/components/pull/32) — **fix: repair PNPM_HOME registry type**
 
 
 ## 🛠️ Tech Stack
